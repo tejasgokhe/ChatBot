@@ -1,0 +1,97 @@
+🔹 What is C++?
+
+C++ is a general-purpose programming language used for system programming, application development, game development, embedded systems, and more. It combines:
+
+Procedural programming (like C)
+
+Object-Oriented Programming (OOP)
+
+Generic programming (using templates)
+
+🔹 Key Features of C++
+
+Object-Oriented Programming
+
+Classes and Objects
+
+Inheritance
+
+Polymorphism
+
+Encapsulation
+
+Abstraction
+
+Fast and Efficient
+
+Direct memory management
+
+High performance
+
+Portability
+
+Programs can run on different platforms with minimal changes
+
+Standard Template Library (STL)
+
+Provides ready-made data structures like vectors, stacks, queues, maps, etc.
+
+Low-Level Memory Access
+
+Supports pointers and dynamic memory allocation
+
+🔹 Why Learn C++?
+
+Widely used in competitive programming
+
+Strong foundation for Data Structures & Algorithms
+
+Used in game engines and system software
+
+Helpful for placement preparation
+
+Popular software developed using C++ includes:
+
+Adobe Photoshop
+
+Google Chrome
+
+Counter-Strike
+
+🔹 Basic Structure of a C++ Program
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, World!";
+    return 0;
+}
+
+
+Explanation:
+
+#include <iostream> → Used for input and output
+
+using namespace std; → Allows use of standard library
+
+int main() → Entry point of the program
+
+cout → Used to print output
+
+return 0; → Indicates successful execution
+
+🔹 Applications of C++
+
+Operating Systems
+
+Game Development
+
+Embedded Systems
+
+Desktop Applications
+
+Banking & Financial Systems
+
+🔹 Conclusion
+
+C++ is a versatile and powerful programming language that provides both high-level and low-level programming features. It remains one of the most important languages for software development and campus placement preparation.
